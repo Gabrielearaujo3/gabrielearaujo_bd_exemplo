@@ -1,0 +1,4 @@
+nome Gabriele Araújo
+idade 16 
+trabalho sim, em casa
+passatempo dormir, brincar com minha cadela
